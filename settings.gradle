@@ -1,0 +1,2 @@
+rootProject.name='frida-util'
+include ':app'
