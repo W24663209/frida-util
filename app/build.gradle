@@ -32,6 +32,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
+    // https://mvnrepository.com/artifact/com.alibaba/fastjson
+    implementation 'com.alibaba:fastjson:2.0.1'
+
     // https://mvnrepository.com/artifact/cn.hutool/hutool-all
 //    implementation group: 'cn.hutool', name: 'hutool-all', version: '5.7.18'
 }
